@@ -37,7 +37,7 @@
             android:layout_toRightOf="@id/img_item_photo"
             android:textSize="16sp"
             android:textStyle="bold"
-            tools:text="@string/heroes_name" />
+            tools:text="SOEKARNO" />
 
         <TextView
             android:id="@+id/tv_item_from"
@@ -51,7 +51,7 @@
             android:layout_toRightOf="@id/img_item_photo"
             android:ellipsize="end"
             android:maxLines="5"
-            tools:text="@string/description" />
+            tools:text="DESKRIPSI SOEKARNO" />
 
         <LinearLayout
             android:id="@+id/layout_button"

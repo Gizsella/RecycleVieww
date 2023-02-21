@@ -1,6 +1,6 @@
 # MyRecyclerView
-<h3>Nama: Nayla Agnesia Widiya Putri</h3>
-<h3>No: 27</h3>
+<h3>Nama: Gizella Ratu Pramesti</h3>
+<h3>No: 15</h3>
 <h3>Kelas: XI RPL 3</h3>
 ![Screenshot (33)](https://user-images.githubusercontent.com/110014840/220281525-bb7b8081-550d-4d87-86fd-2b9535d3f808.png)
 ![Screenshot (34)](https://user-images.githubusercontent.com/110014840/220281557-ac04e7c2-d0db-49bf-b5d1-521fa467fbc2.png)
